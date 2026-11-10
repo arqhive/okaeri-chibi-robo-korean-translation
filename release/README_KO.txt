@@ -28,8 +28,8 @@ https://github.com/arqhive/okaeri-chibi-robo-korean-translation
 
 패치 적용 결과 (v1.0f)
   크기  67,108,864 바이트
-  CRC32 6B5EFBEB
-  MD5   e00c311a5329805e8d751091855f4fda
+  CRC32 928489A0
+  MD5   b4e8fa1ea8603dc67e6603bebb4e4ea7
 
 원본 확인값이 다르면 패치가 맞지 않습니다. 직접 덤프한 일본판 롬을 쓰세요.
 

@@ -34,9 +34,9 @@
 | 항목 | 원본 일본판 | 패치 적용 결과 (v1.0f) |
 |---|---|---|
 | 크기 | 67,108,864 바이트 | 67,108,864 바이트 |
-| CRC32 | `30DEDCA9` | `6B5EFBEB` |
-| MD5 | `b951a52b1a9e1fe4ea2b9be9e41989ff` | `e00c311a5329805e8d751091855f4fda` |
-| SHA-1 | `d8a33d9757c25c54764ef9611b49cc16f82b55fe` | `a097278df77db050ff0ddc3a162b84135a0df160` |
+| CRC32 | `30DEDCA9` | `928489A0` |
+| MD5 | `b951a52b1a9e1fe4ea2b9be9e41989ff` | `b4e8fa1ea8603dc67e6603bebb4e4ea7` |
+| SHA-1 | `d8a33d9757c25c54764ef9611b49cc16f82b55fe` | `e6127fb223e413d56e93ee74faa996074f3e6ac3` |
 
 원본 파일명 예: `Okaeri! Chibi-Robo! - Happy Rich Oosouji! (Japan).nds`
 
