@@ -1,0 +1,6 @@
+*.nds
+*.sav
+*.bps
+*.zip
+__pycache__/
+work/
