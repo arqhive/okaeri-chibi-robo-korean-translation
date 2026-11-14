@@ -5,6 +5,8 @@
 
 **제작: arqhive** · **최신 버전: [v1.0f](../../releases/tag/v1.0f) (완성판)**
 
+**소개 페이지: [arqhive 한글 패치 아카이브](https://arqhive.vercel.app/korean-translation/okaeri-chibi-robo)**
+
 - 대사, 메뉴, 아이템 설명, TV 쇼핑 화면, 도움말을 한글화했습니다.
 - 그림 글씨 680여 칸을 한글화했습니다(타이틀, 치비 메뉴 아이콘 이름표, TV 쇼핑 상품 카드, 미니게임 안내 등).
 - 대사와 그림 글씨 글꼴은 닌텐도 DS 도트 글꼴에 맞춘 **갈무리**를 씁니다.
